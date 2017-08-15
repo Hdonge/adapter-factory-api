@@ -1,0 +1,6 @@
+D:\Sample VS Projects\Adapter-factory-api\ApiDesign_AdapterFactory\ApiDesign_AdapterFactory\bin\Debug\ApiDesign_AdapterFactory.exe.config
+D:\Sample VS Projects\Adapter-factory-api\ApiDesign_AdapterFactory\ApiDesign_AdapterFactory\obj\Debug\ApiDesign_AdapterFactory.csprojResolveAssemblyReference.cache
+D:\Sample VS Projects\Adapter-factory-api\ApiDesign_AdapterFactory\ApiDesign_AdapterFactory\bin\Debug\ApiDesign_AdapterFactory.exe
+D:\Sample VS Projects\Adapter-factory-api\ApiDesign_AdapterFactory\ApiDesign_AdapterFactory\bin\Debug\ApiDesign_AdapterFactory.pdb
+D:\Sample VS Projects\Adapter-factory-api\ApiDesign_AdapterFactory\ApiDesign_AdapterFactory\obj\Debug\ApiDesign_AdapterFactory.exe
+D:\Sample VS Projects\Adapter-factory-api\ApiDesign_AdapterFactory\ApiDesign_AdapterFactory\obj\Debug\ApiDesign_AdapterFactory.pdb
